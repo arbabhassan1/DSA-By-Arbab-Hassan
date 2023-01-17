@@ -1,6 +1,6 @@
-Hye!
- All the files of Data Structure & Algorithm
- if you find any problem mail on the bellow address.
+Hi!
+ Here is all the files of Data Structure & Algorithm codes.
+ If you find any problem feel free to contact for help.
  /*
                            Arbab Hassan
                 Department of Information Technology
